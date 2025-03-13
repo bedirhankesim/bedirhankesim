@@ -1,6 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/dorianpro/kaliwallpapers/master/kali-linux-wallpaper-v7.png)
-
-
 <h1 align="center">Hi 👋, I'm Bedirhan</h1>
 <h3 align="center">I'm cyber security student from Turkey</h3>
 
