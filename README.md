@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b4a0be24-7177-4f53-9f5b-35e7c85f1106)[![MasterHead](https://raw.githubusercontent.com/dorianpro/kaliwallpapers/master/kali-linux-wallpaper-v7.png)
+[![MasterHead](https://raw.githubusercontent.com/dorianpro/kaliwallpapers/master/kali-linux-wallpaper-v7.png)
 
 
 <h1 align="center">Hi 👋, I'm Bedirhan</h1>
